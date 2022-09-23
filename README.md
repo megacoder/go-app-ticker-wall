@@ -12,7 +12,7 @@ We use it at the [Polygon.io](https://polygon.io) office, but we also wanted it 
 
 There are 2 components to a ticker wall cluster. There is 1x Leader and N number of GUIs. The leader can also be run on the same system as a GUI, and there is no minimum for the number of GUIs. You can start with 1 screen, then continue to add more and it will dynamically adjust in real-time.
 
-Download the latest release binary from the [Releases Page](https://github.com/polygon-io/go-app-ticker-wall/releases)
+Download the latest release binary from the [Releases Page](https://github.com/megacoder/go-app-ticker-wall/releases)
 
 **Start the Leader**
 
