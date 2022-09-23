@@ -8,11 +8,11 @@ import (
 
 	"github.com/goxjs/gl"
 	"github.com/goxjs/glfw"
-	"github.com/polygon-io/go-app-ticker-wall/client"
-	"github.com/polygon-io/go-app-ticker-wall/fonts"
-	"github.com/polygon-io/go-app-ticker-wall/gui/notifications"
-	"github.com/polygon-io/nanovgo"
-	"github.com/polygon-io/nanovgo/perfgraph"
+	"github.com/megacoder/go-app-ticker-wall/client"
+	"github.com/megacoder/go-app-ticker-wall/fonts"
+	"github.com/megacoder/go-app-ticker-wall/gui/notifications"
+	"github.com/megacoder/nanovgo"
+	"github.com/megacoder/nanovgo/perfgraph"
 	"github.com/sirupsen/logrus"
 )
 

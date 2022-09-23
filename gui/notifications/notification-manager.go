@@ -1,8 +1,8 @@
 package notifications
 
 import (
-	"github.com/polygon-io/go-app-ticker-wall/models"
-	"github.com/polygon-io/nanovgo"
+	"github.com/megacoder/go-app-ticker-wall/models"
+	"github.com/megacoder/nanovgo"
 	"github.com/sirupsen/logrus"
 )
 

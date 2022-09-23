@@ -34,7 +34,7 @@ func NewRootCommand() *cobra.Command {
 		Use:   "tickerwall",
 		Short: "Polygon.io Ticker Wall",
 		Long: `A horizontally scalable ticker wall to display real-time stock data. 
-Find out more at: https://github.com/polygon-io/go-app-ticker-wall`,
+Find out more at: https://github.com/megacoder/go-app-ticker-wall`,
 		PersistentPreRunE: func(cmd *cobra.Command, args []string) error {
 			if err := initializeConfig(cmd); err != nil {
 				return err

@@ -8,8 +8,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/imdario/mergo"
-	"github.com/polygon-io/go-app-ticker-wall/leader"
-	"github.com/polygon-io/go-app-ticker-wall/models"
+	"github.com/megacoder/go-app-ticker-wall/leader"
+	"github.com/megacoder/go-app-ticker-wall/models"
 	"github.com/sirupsen/logrus"
 )
 

@@ -5,10 +5,10 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	polygon "github.com/polygon-io/client-go/rest"
-	polygon_models "github.com/polygon-io/client-go/rest/models"
-	polygonws "github.com/polygon-io/client-go/websocket"
-	"github.com/polygon-io/go-app-ticker-wall/models"
+	polygon "github.com/megacoder/client-go/rest"
+	polygon_models "github.com/megacoder/client-go/rest/models"
+	polygonws "github.com/megacoder/client-go/websocket"
+	"github.com/megacoder/go-app-ticker-wall/models"
 	"github.com/sirupsen/logrus"
 )
 

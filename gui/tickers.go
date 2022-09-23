@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/polygon-io/go-app-ticker-wall/models"
-	"github.com/polygon-io/nanovgo"
+	"github.com/megacoder/go-app-ticker-wall/models"
+	"github.com/megacoder/nanovgo"
 )
 
 func (g *GUI) renderTickers(globalOffset float32) error {

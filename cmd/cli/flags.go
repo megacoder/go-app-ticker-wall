@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/polygon-io/go-app-ticker-wall/models"
+	"github.com/megacoder/go-app-ticker-wall/models"
 	"github.com/spf13/pflag"
 )
 

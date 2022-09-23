@@ -1,6 +1,6 @@
 package models
 
-import "github.com/polygon-io/nanovgo"
+import "github.com/megacoder/nanovgo"
 
 func (g *RGBA) ToNanov() nanovgo.Color {
 	return nanovgo.RGBA(

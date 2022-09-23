@@ -5,8 +5,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/polygon-io/go-app-ticker-wall/models"
-	polygon "github.com/polygon-io/go-app-ticker-wall/polygon_client"
+	"github.com/megacoder/go-app-ticker-wall/models"
+	polygon "github.com/megacoder/go-app-ticker-wall/polygon_client"
 	"github.com/sirupsen/logrus"
 	tombv2 "gopkg.in/tomb.v2"
 )

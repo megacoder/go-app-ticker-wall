@@ -3,9 +3,9 @@ package main
 import (
 	"os"
 
-	"github.com/polygon-io/go-app-ticker-wall/leader"
-	"github.com/polygon-io/go-app-ticker-wall/models"
-	"github.com/polygon-io/go-app-ticker-wall/server"
+	"github.com/megacoder/go-app-ticker-wall/leader"
+	"github.com/megacoder/go-app-ticker-wall/models"
+	"github.com/megacoder/go-app-ticker-wall/server"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )

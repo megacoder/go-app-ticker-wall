@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/polygon-io/go-app-ticker-wall/client"
+	"github.com/megacoder/go-app-ticker-wall/client"
 
 	tombv2 "gopkg.in/tomb.v2"
 )

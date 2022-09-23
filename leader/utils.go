@@ -1,6 +1,6 @@
 package leader
 
-import "github.com/polygon-io/go-app-ticker-wall/models"
+import "github.com/megacoder/go-app-ticker-wall/models"
 
 // UpdateClientSlice is sortable. fancy.
 type UpdateClientSlice []*UpdateClient

@@ -4,10 +4,10 @@ import (
 	"context"
 	"fmt"
 
-	polygonws "github.com/polygon-io/client-go/websocket"
-	polygonws_models "github.com/polygon-io/client-go/websocket/models"
+	polygonws "github.com/megacoder/client-go/websocket"
+	polygonws_models "github.com/megacoder/client-go/websocket/models"
 
-	"github.com/polygon-io/go-app-ticker-wall/models"
+	"github.com/megacoder/go-app-ticker-wall/models"
 )
 
 func (c *Client) ListenForTickerUpdates(ctx context.Context, tickers []string) error {

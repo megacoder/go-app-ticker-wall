@@ -4,8 +4,8 @@ import (
 	"time"
 
 	ease "github.com/fogleman/ease"
-	"github.com/polygon-io/go-app-ticker-wall/models"
-	"github.com/polygon-io/nanovgo"
+	"github.com/megacoder/go-app-ticker-wall/models"
+	"github.com/megacoder/nanovgo"
 )
 
 type Notification struct {

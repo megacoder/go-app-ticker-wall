@@ -5,7 +5,7 @@ import (
 	"errors"
 	"sort"
 
-	"github.com/polygon-io/go-app-ticker-wall/models"
+	"github.com/megacoder/go-app-ticker-wall/models"
 )
 
 // tickerPriceUpdate handles updating a tickers price & market cap.

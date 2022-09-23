@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 
-	"github.com/polygon-io/go-app-ticker-wall/models"
+	"github.com/megacoder/go-app-ticker-wall/models"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )

@@ -295,10 +295,10 @@ github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINE
 github.com/pkg/sftp v1.10.1/go.mod h1:lYOWFsE0bwd1+KfKJaKeuokY15vzFx25BLbzYYoAxZI=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
-github.com/polygon-io/client-go v0.10.0 h1:XDglB6/0sZsc9TprbEUYFb/P3qyu+AouUm9qhKtGDv0=
-github.com/polygon-io/client-go v0.10.0/go.mod h1:UoEdco0FToYGfslCIg8Jr2/zMiKND9jXD72yW+Lo6rI=
-github.com/polygon-io/nanovgo v0.0.0-20210406222537-1c1e04bebee3 h1:l05Gu/FjlakPZRflTvOB289bXYMuYdF+Qtj6u1/JAIo=
-github.com/polygon-io/nanovgo v0.0.0-20210406222537-1c1e04bebee3/go.mod h1:3sFQCuEakqbn0IP8+cBG/MFdBrWvVDU0pyLAuF+SGYI=
+github.com/megacoder/client-go v0.10.0 h1:XDglB6/0sZsc9TprbEUYFb/P3qyu+AouUm9qhKtGDv0=
+github.com/megacoder/client-go v0.10.0/go.mod h1:UoEdco0FToYGfslCIg8Jr2/zMiKND9jXD72yW+Lo6rI=
+github.com/megacoder/nanovgo v0.0.0-20210406222537-1c1e04bebee3 h1:l05Gu/FjlakPZRflTvOB289bXYMuYdF+Qtj6u1/JAIo=
+github.com/megacoder/nanovgo v0.0.0-20210406222537-1c1e04bebee3/go.mod h1:3sFQCuEakqbn0IP8+cBG/MFdBrWvVDU0pyLAuF+SGYI=
 github.com/posener/complete v1.1.1/go.mod h1:em0nMJCgc9GFtwrmVmEMR/ZL6WyhyjMBndrE9hABlRI=
 github.com/posener/complete v1.2.3/go.mod h1:WZIdtGGp+qx0sLrYKtIRAruyNpv6hFCicSgv7Sy7s/s=
 github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4/go.mod h1:xMI15A0UPsDsEKsMN9yxemIoYk6Tm2C1GtYGdfGttqA=
