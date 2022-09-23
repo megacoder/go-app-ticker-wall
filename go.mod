@@ -1,4 +1,4 @@
-module github.com/polygon-io/go-app-ticker-wall
+module github.com/megacoder/go-app-ticker-wall
 
 go 1.18
 
@@ -10,8 +10,8 @@ require (
 	github.com/goxjs/gl v0.0.0-20210104184919-e3fafc6f8f2a
 	github.com/goxjs/glfw v0.0.0-20191126052801-d2efb5f20838
 	github.com/imdario/mergo v0.3.12
-	github.com/polygon-io/client-go v0.10.0
-	github.com/polygon-io/nanovgo v0.0.0-20210406222537-1c1e04bebee3
+	github.com/megacoder/client-go v0.10.0
+	github.com/megacoder/nanovgo v0.0.0-20210406222537-1c1e04bebee3
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/pflag v1.0.5
